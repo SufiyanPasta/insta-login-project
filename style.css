@@ -1,0 +1,39 @@
+ #up{
+ 
+border: 1px solid black;
+display: grid;
+justify-content: center;
+height:400px;
+width: 300px;
+padding: 20px;
+ }
+ h1{
+    font-family: ;
+ }
+
+.abc{
+    padding-left: 5px;
+width: 250px;
+}
+#log{
+    width: 260px;
+    background-color:skyblue ;
+border: none;
+border-radius:5px ;
+}
+#in{
+    border: 1px solid black;
+    display: grid;
+    justify-content: center;
+    height:50px;
+    width:390px;
+  
+     
+     }
+#big{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+ 
